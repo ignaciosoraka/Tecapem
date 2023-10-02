@@ -260,6 +260,7 @@ SERVICIOS
     margin-top: -50px;
     height: 100px;
     width: 100px;
+    
 }
 
 .service h3 {
@@ -437,7 +438,7 @@ textarea {
     outline: none;
     border-radius: 25px;
     color: #000000;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 
@@ -663,7 +664,7 @@ Mecanizado
 
     .services {
         flex-direction: column;
-        padding: 30px 30px 0px 30px;
+        padding: 70px 30px 0px 30px;
     }
 
     .service {
