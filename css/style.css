@@ -776,6 +776,10 @@ Mecanizado
     .grid-container {
         grid-template-columns: 1fr; /* Cambia a una sola columna en pantallas pequeñas */
     }
+
+    header{  min-height: 80vh;
+
+    }
 }
 @media (max-width: 576px){
 
